@@ -5,8 +5,6 @@ http://tiny.cc/2hu
 
 For fun, I thought of an innovative website idea that would combine the abilities of two touhou characters into one. </br>
 
-**Click the button → get a combined ability.**
-
 ![](screenshot.png)
 
 ## Features
